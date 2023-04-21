@@ -1,4 +1,4 @@
-<p align="center"><img alt="logo" src="https://github.com/shadazam08/shadazam08/blob/main/Shad%20Azam.gif"/></p>
+<p align="center"><img alt="logo" src="./Shad Azam.gif"/></p>
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)-->
 
