@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shad Azam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=0e75b6&style=flat" alt="shadazam08" /> </p>
 
-- 🔭 I’m currently working on **System Administrator**
+- 🔭 I’m currently working on **Desktop Support(System Administrator)**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -22,6 +22,7 @@
 <a href="https://fb.com/shad.azam.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shad.azam.94" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mshadazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mshadazam/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@theshadazam/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@theshadazam/about" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/shadazam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shadazam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shadazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shadazam/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shadazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/shadazam/" height="30" width="40" /></a>
 </p>
