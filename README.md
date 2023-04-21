@@ -1,11 +1,11 @@
-![logo](https://github.com/shadazam08/shadazam08/blob/main/Shad%20Azam.gif)
+<p align="center"><img alt="logo" src="https://github.com/shadazam08/shadazam08/blob/main/Shad%20Azam.gif" height="200" /></p>
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)-->
 
-<h1 align="center">
+<!--<h1 align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋; I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30&color=ED47BD">
  
-</h1>
+</h1>-->
 <h3 align="center">A passionate Full Stack Developer from INDIA</h3>
 
 <img align="right" alt="coding" width="400" src="./coding.gif">
