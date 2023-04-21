@@ -1,4 +1,4 @@
-<p align="center"><img alt="logo" src="./Shad Azam.gif"/></p>
+<p align="center"><img alt="logo" src="./Shad Azam.gif" width="2000" height="250"/></p>
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)-->
 
