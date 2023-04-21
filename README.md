@@ -8,7 +8,7 @@
 </h1>-->
 <h3 align="center">A passionate Full Stack Developer from INDIA</h3><br/>
 
-<img align="right" alt="coding" width="380" src="./coding.gif">
+<img align="right" alt="coding" width="380" src="./programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=0e75b6&style=flat" alt="shadazam08" /> </p>
 
