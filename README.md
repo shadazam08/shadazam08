@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋; I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30&color=ED47BD">
  
 </h1>-->
-<h3 align="center">A passionate Full Stack Developer from INDIA</h3>
+<h3 align="center">A passionate Full Stack Developer from INDIA</h3><br/>
 
 <img align="right" alt="coding" width="380" src="./coding.gif">
 
