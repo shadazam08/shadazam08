@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML/CSS/JAVASCRIPT/REACT.JS/PostgreSQL/MongoDB**
+- 💬 Ask me about **HTML/CSS/JAVASCRIPT/REACT.JS/PostgreSQL/MySql**
 
 - 📫 How to reach me **azamshad08@gmail.com**
 
