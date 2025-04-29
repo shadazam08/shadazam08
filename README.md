@@ -71,7 +71,7 @@ You can connect with me on:
 ## 🧑‍💻 GitHub Stats & Achievements  
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
-    <img src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&locale=en&count_private=true" alt="Shad Azam's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&locale=en&count_private=true" alt="Shad Azam's GitHub Stats" /><br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08" alt="Shad Azam's GitHub Streak" />
 </p>
 
