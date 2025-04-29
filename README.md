@@ -2,7 +2,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Azam....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)-->
 
-<h1 align="center">Hi there, I'm Shad Azam 👋</h1>
+<!--<h1 align="center">Hi there, I'm Shad Azam 👋</h1>-->
 <h3 align="center">A passionate Full Stack Developer from INDIA</h3><br/>
 
 
@@ -68,6 +68,18 @@ You can connect with me on:
 ---
 
 
+## 🧑‍💻 GitHub Stats & Achievements  
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&locale=en&count_private=true" alt="Shad Azam's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08" alt="Shad Azam's GitHub Streak" />
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadazam08" alt="shad azam" /></a> </p>
+
+---
+
+
 ## 🔧 My Projects  
 ### 🎶 [TuneSphere](https://github.com/shadazam08/tunesphere)
 A full-stack **Music Streaming Platform** built with **Next.js**, **Node.js** and **MongoDB**.
@@ -83,14 +95,31 @@ A full-stack **Music Streaming Platform** built with **Next.js**, **Node.js** an
 
 ---
 
-## 🧑‍💻 GitHub Stats & Achievements  
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
-    <img src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&locale=en&count_private=true" alt="Shad Azam's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08" alt="Shad Azam's GitHub Streak" />
-</p>
+### 📦 [Messho](https://github.com/shadazam08/meesho-colone)
+A full-stack **E-commerce Platform** inspired by **Meesho**, built with **React.js**, **Node.js**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadazam08" alt="shad azam" /></a> </p>
+- **Features:**
+  - Product listing
+  - User authentication
+  - Shopping cart and order management
+- **Tech Stack:** React, Node.js, Express.js, MongoDB
+- **Live Demo:** [View Live Demo](https://meesho-colone.vercel.app/)
+
+[**Check out the full project here**](https://github.com/shadazam08/meesho-colone)
+
+---
+
+### 🎥 [Netflix Clone](https://github.com/shadazam08/netflix-clone)
+A **Netflix Clone** built with **React.js**, **Node.js**, and **PostgreSQL**.
+
+- **Features:**
+  - Movie and TV show streaming
+  - User authentication
+  - Search and filter functionality
+- **Tech Stack:** React, Node.js, Express.js, MongoDB
+- **Live Demo:** [View Live Demo](https://netflix-clone-nine-tawny.vercel.app/)
+
+[**Check out the full project here**](https://github.com/shadazam08/netflix-clone)
 
 ---
 
