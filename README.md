@@ -2,13 +2,13 @@
 
 <h3 align="center">A passionate Full Stack Developer from INDIA</h3><br/>
 
-## 🚀 About Me  
+## 🚀 About Me
+
 <img align="right" alt="coding" width="380" src="./programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=0e75b6&style=flat" alt="shadazam08" /> </p>
 
 I'm a **Full Stack Developer** passionate about building **scalable and efficient web applications**. I have hands-on experience with **GenAI**, **React.js**, **Node.js**, **MongoDB**, and **Next.js**.
-
 
 - 🔭 Currently working on **[TuneSphere](https://github.com/shadazam08/tunesphere)** – a music streaming platform.
 - 🌱 Always learning new technologies such as **Next.js**, **GenAI**, and **TypeScript**.
@@ -18,8 +18,8 @@ I'm a **Full Stack Developer** passionate about building **scalable and efficien
 
 ---
 
+## 🌟 Connect with Me
 
-## 🌟 Connect with Me  
 You can connect with me on:
 
 <p>
@@ -31,8 +31,8 @@ You can connect with me on:
 
 ---
 
-
 ## 💻 Skills & Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -48,25 +48,26 @@ You can connect with me on:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI Badge"/>
 
-</p>
+## </p>
 
----
+## 🧑‍💻 GitHub Stats & Achievements
 
-
-## 🧑‍💻 GitHub Stats & Achievements  
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
+  <img align="left" src="https://streak-stats.demolab.com/?user=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
+
+  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
     <img src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&locale=en&count_private=true" alt="Shad Azam's GitHub Stats" /><br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08" alt="Shad Azam's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08" alt="Shad Azam's GitHub Streak" /> -->
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadazam08" alt="shad azam" /></a> </p>
 
 ---
 
+## 🔧 My Projects
 
-## 🔧 My Projects  
 ### 🎶 [TuneSphere](https://github.com/shadazam08/tunesphere)
+
 A full-stack **Music Streaming Platform** built with **Next.js**, **Node.js** and **MongoDB**.
 
 - **Features:**
@@ -81,6 +82,7 @@ A full-stack **Music Streaming Platform** built with **Next.js**, **Node.js** an
 ---
 
 ### 📦 [Messho](https://github.com/shadazam08/meesho-colone)
+
 A full-stack **E-commerce Platform** inspired by **Meesho**, built with **React.js**, **Node.js**.
 
 - **Features:**
@@ -95,6 +97,7 @@ A full-stack **E-commerce Platform** inspired by **Meesho**, built with **React.
 ---
 
 ### 🎥 [Netflix Clone](https://github.com/shadazam08/netflix-clone)
+
 A **Netflix Clone** built with **React.js**, **Node.js**, and **PostgreSQL**.
 
 - **Features:**
@@ -108,7 +111,8 @@ A **Netflix Clone** built with **React.js**, **Node.js**, and **PostgreSQL**.
 
 ---
 
-## 🏆 Achievements & Contributions  
+## 🏆 Achievements & Contributions
+
 - ⭐ Contributed to several open-source projects.
 - 📈 Successfully deployed multiple web applications.
 - 🏅 Featured in GitHub's **Trending Developers** list in the past.
@@ -116,13 +120,15 @@ A **Netflix Clone** built with **React.js**, **Node.js**, and **PostgreSQL**.
 ---
 
 ## 📅 Current Focus
+
 - Mastering **Next.js** and **TypeScript**.
 - Exploring **GraphQL** and building **Microservices**.
 - Improving **UI/UX** design skills.
 
 ---
 
-## 🔗 Let's Build the Future Together!  
+## 🔗 Let's Build the Future Together!
+
 If you're looking for a passionate developer who loves challenges and constantly strives for excellence, feel free to reach out! Let's collaborate and build something amazing. 🚀
 
 ---
@@ -130,4 +136,3 @@ If you're looking for a passionate developer who loves challenges and constantly
 <p align="center">
   <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Support-My%20Work-brightgreen?style=for-the-badge" />
 </p>
-
