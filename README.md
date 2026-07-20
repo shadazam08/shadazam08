@@ -60,7 +60,11 @@ You can connect with me on:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08" alt="Shad Azam's GitHub Streak" /> -->
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadazam08" alt="shad azam" /></a> </p><br><br>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=shadazam08" alt="shad azam" /> -->
+</a> </p>
+<!-- <br><br> -->
 
 ---
 
