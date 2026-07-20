@@ -1,4 +1,4 @@
-<p align="center"><img alt="logo" src="./Shad Azam12.gif" width="2000" height="250"/></p>
+<p align="center"><img alt="logo" src="./Shad Azam12.gif" width="100%"/></p>
 
 <h3 align="center">A passionate Full Stack Developer from INDIA</h3><br/>
 
@@ -26,7 +26,7 @@ You can connect with me on:
     <!-- <a href="https://twitter.com/@mshad_azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mshad_azam" height="30" width="40" /></a> -->
     <a href="https://linkedin.com/in/shad-azam-32180153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shad-azam-ab9107244" height="30" width="40" /></a>
     <a href="https://fb.com/shad.azam.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shad.azam.94" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/mshadazam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mshadazam/" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/mshadazam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mshadazam/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -47,13 +47,15 @@ You can connect with me on:
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>-->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI Badge"/>
-
-## </p>
+</p>
 
 ## 🧑‍💻 GitHub Stats & Achievements
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&theme=tokyonight"/> -->
+  <br>
+  <img src="https://streak-stats.demolab.com?user=shadazam08&theme=tokyonight"/>
 </p>
 
 
