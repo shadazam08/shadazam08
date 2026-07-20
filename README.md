@@ -53,18 +53,9 @@ You can connect with me on:
 ## 🧑‍💻 GitHub Stats & Achievements
 
 <p>
-  <img align="left" src="https://streak-stats.demolab.com/?user=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
-
-  <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
-    <img src="https://github-readme-stats.vercel.app/api?username=shadazam08&show_icons=true&locale=en&count_private=true" alt="Shad Azam's GitHub Stats" /><br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadazam08" alt="Shad Azam's GitHub Streak" /> -->
+  <img src="https://streak-stats.demolab.com/?user=shadazam08&show_icons=true&locale=en&layout=compact" alt="shadazam08" />
 </p>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- <img src="https://github-profile-trophy.vercel.app/?username=shadazam08" alt="shad azam" /> -->
-</a> </p>
-<!-- <br><br> -->
 
 ---
 
