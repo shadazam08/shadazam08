@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=8b5cf6&style=flat-square" alt="GitHub Profile View Counter" />
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
@@ -48,17 +49,17 @@ I’m **Shad**, a full-stack developer in India. I build React interfaces and th
 - 🌱 **Learning:** TypeScript, deeper Next.js patterns and GenAI applications.
 - 💬 **Ask me about:** JavaScript, React, Node.js, Express, MongoDB and PostgreSQL.
 
-<details>
-  <summary>Beyond the projects</summary>
+<!-- <details> -->
+  ## Beyond the projects
 
 I’m interested in how APIs fit together as an application grows, especially GraphQL and microservices. On the UI side, I like working out how to make the next step clearer for the person using the app.
 
 🏏 **Beyond the keyboard:** Cricket and experimenting with new project ideas.
 
-</details>
+<!-- </details> -->
 
-<details>
-  <summary>GitHub activity & elsewhere</summary>
+<!-- <details> -->
+ ## GitHub activity & elsewhere
 
 <p align="center">
   <a href="https://github.com/shadazam08">
@@ -66,13 +67,9 @@ I’m interested in how APIs fit together as an application grows, especially Gr
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=8b5cf6&style=flat-square" alt="GitHub profile view counter" />
-</p>
-
 [Instagram](https://www.instagram.com/mshadazam/) &nbsp;·&nbsp; [Facebook](https://fb.com/shad.azam.94)
 
-</details>
+<!-- </details> -->
 
 ## Contact
 
