@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145" height="40" viewBox="0 0 145 40">
+  <title>Email me</title>
+  <rect x="0.5" y="0.5" width="144" height="39" rx="8" fill="#9bf8cc" stroke="#83dfb6"/>
+  <g transform="translate(14 9)" fill="none" stroke="#0a211e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="20" height="15" rx="3"/><path d="m2 6 9 7 9-7"/></g>
+  <text x="46" y="25" font-family="Inter, Arial, sans-serif" font-size="14" fill="#0a211e" font-weight="600">Email me</text>
+  <path d="M121 24l8-8m-7 0h7v7" fill="none" stroke="#0a211e" stroke-width="1.4" stroke-linecap="round"/>
+</svg>
