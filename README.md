@@ -51,17 +51,17 @@ I’m **Shad**, a full-stack developer based in India. I work with React, Next.j
 - 🌱 **Learning:** TypeScript, deeper Next.js patterns and GenAI applications.
 - 💬 **Ask me about:** JavaScript, React, Node.js, Express, MongoDB and PostgreSQL.
 
-<details>
-  <summary>Beyond the projects</summary>
+<!-- <details> -->
+  ## Beyond the projects
 
 I’m interested in how APIs fit together as an application grows, especially GraphQL and microservices. On the UI side, I like working out how to make the next step clearer for the person using the app.
 
 🏏 **Beyond the keyboard:** Cricket and experimenting with new project ideas.
 
-</details>
+<!-- </details> -->
 
-<details>
-  <summary>GitHub activity & elsewhere</summary>
+<!-- <details> -->
+ ## GitHub activity & elsewhere
 
 <p align="center">
   <a href="https://github.com/shadazam08">
@@ -71,7 +71,7 @@ I’m interested in how APIs fit together as an application grows, especially Gr
 
 [Instagram](https://www.instagram.com/mshadazam/) &nbsp;·&nbsp; [Facebook](https://fb.com/shad.azam.94)
 
-</details>
+<!-- </details> -->
 
 ## Contact
 
