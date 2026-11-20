@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40" viewBox="0 0 150 40" fill="none">
-  <title>Browse GitHub repositories</title>
-  <rect x=".5" y=".5" width="149" height="39" rx="9" fill="#172126" stroke="#53685a"/>
-  <path d="m22 14-6 6 6 6m9-12 6 6-6 6m-4-14-3 16" stroke="#d5f5b0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="49" y="25" fill="#f2f2e9" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Repositories</text>
-</svg>
