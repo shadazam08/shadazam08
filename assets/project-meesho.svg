@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" fill="none">
+  <title>Meesho Clone — E-commerce study</title>
+  <desc>A charcoal project title strip with warm white lettering, a mint accent, and a geometric shopping bag illustration. An independent learning project.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="168" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10171C"/>
+      <stop offset="1" stop-color="#172126"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="168" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="168" fill="url(#surface)"/>
+    <path d="M800 0V168M864 0V168M928 0V168M992 0V168M1056 0V168M1120 0V168M1184 0V168M800 40H1200M800 104H1200" stroke="#F2F2E9" stroke-opacity=".035"/>
+    <circle cx="1056" cy="84" r="112" stroke="#D6B99B" stroke-opacity=".12"/>
+    <circle cx="1056" cy="84" r="72" stroke="#D6B99B" stroke-opacity=".2"/>
+    <path d="M0 44V124" stroke="#D5F5B0" stroke-width="5"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="40" y="46" fill="#D6B99B" font-size="12" font-weight="700" letter-spacing="2.6">E-COMMERCE STUDY</text>
+      <text x="37" y="111" fill="#F2F2E9" font-size="54" font-weight="700" letter-spacing="-1.6">Meesho Clone<tspan fill="#D5F5B0">.</tspan></text>
+    </g>
+    <g stroke="#D6B99B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1027 64H1085L1091 117H1021L1027 64Z" fill="#2A2926"/>
+      <path d="M1041 70V54A15 15 0 0 1 1071 54V70"/>
+    </g>
+    <path d="M1046 92L1053 99L1067 85" stroke="#D5F5B0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M769 81H825M797 53V109" stroke="#D6B99B" stroke-opacity=".2"/>
+    <circle cx="1160" cy="38" r="3" fill="#D5F5B0"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="167" rx="17.5" stroke="#F2F2E9" stroke-opacity=".12"/>
+</svg>

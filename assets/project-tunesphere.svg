@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" fill="none">
+  <title>TuneSphere — Music streaming</title>
+  <desc>A charcoal project title strip with warm white lettering, a mint accent, and an abstract headphone illustration.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="168" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10171C"/>
+      <stop offset="1" stop-color="#172126"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="168" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="168" fill="url(#surface)"/>
+    <path d="M800 0V168M864 0V168M928 0V168M992 0V168M1056 0V168M1120 0V168M1184 0V168M800 40H1200M800 104H1200" stroke="#F2F2E9" stroke-opacity=".035"/>
+    <circle cx="1056" cy="84" r="112" stroke="#A8C6CB" stroke-opacity=".12"/>
+    <circle cx="1056" cy="84" r="72" stroke="#A8C6CB" stroke-opacity=".2"/>
+    <path d="M0 44V124" stroke="#D5F5B0" stroke-width="5"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="40" y="46" fill="#A8C6CB" font-size="12" font-weight="700" letter-spacing="2.6">MUSIC STREAMING</text>
+      <text x="37" y="111" fill="#F2F2E9" font-size="54" font-weight="700" letter-spacing="-1.6">TuneSphere<tspan fill="#D5F5B0">.</tspan></text>
+    </g>
+    <g stroke="#A8C6CB" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1019 89V79A37 37 0 0 1 1093 79V89"/>
+      <path d="M1020 80H1026V112H1020A9 9 0 0 1 1011 103V89A9 9 0 0 1 1020 80Z" fill="#1E2C30"/>
+      <path d="M1092 80H1086V112H1092A9 9 0 0 0 1101 103V89A9 9 0 0 0 1092 80Z" fill="#1E2C30"/>
+    </g>
+    <g stroke="#D5F5B0" stroke-width="2.5" stroke-linecap="round">
+      <path d="M1044 85V99M1052 77V107M1060 81V103M1068 88V96"/>
+    </g>
+    <path d="M769 81H825M797 53V109" stroke="#A8C6CB" stroke-opacity=".2"/>
+    <circle cx="1160" cy="38" r="3" fill="#D5F5B0"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="167" rx="17.5" stroke="#F2F2E9" stroke-opacity=".12"/>
+</svg>

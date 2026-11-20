@@ -1,136 +1,111 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Shad Azam — Full Stack Developer from India. React, Next.js, Node.js and GenAI." width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-banner-mobile.svg" />
+    <img src="./assets/profile-banner.svg" alt="Shad Azam — Full Stack Developer, India. From interface to database." width="100%" />
+  </picture>
+</p>
+
+<h1 align="center">Hi, I'm Shad.</h1>
+
+<p align="center">
+  A <strong>Full Stack Developer based in India</strong>, building web applications<br />
+  with <strong>React, Next.js, Node.js and Express</strong>.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shad-azam-32180153"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:azamshad08@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_Talk-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shad" /></a>
-  <a href="https://github.com/shadazam08?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  Currently building <a href="https://github.com/shadazam08/tunesphere"><strong>TuneSphere</strong></a> and exploring <strong>TypeScript &amp; Generative AI</strong>.
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
+  <a href="mailto:azamshad08@gmail.com"><img src="./assets/button-email.svg" alt="Email Shad" width="122" height="40" /></a>
+  <a href="https://linkedin.com/in/shad-azam-32180153"><img src="./assets/button-linkedin.svg" alt="Connect on LinkedIn" width="146" height="40" /></a>
+  <a href="https://github.com/shadazam08?tab=repositories"><img src="./assets/button-projects.svg" alt="Browse GitHub repositories" width="150" height="40" /></a>
+</p>
+
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#tools-i-work-with">Skills</a> &nbsp; / &nbsp;
   <a href="#lets-connect">Contact</a>
 </p>
 
 ---
 
-## About me
+## Selected work
 
-I'm **Shad Azam**, a **Full Stack Developer based in India**. I enjoy turning ideas into web applications, working across the frontend, backend and databases, and exploring what **Generative AI** can bring to the experience.
+### 01 / TuneSphere
 
-- 🎧 **Building:** [TuneSphere](https://github.com/shadazam08/tunesphere), a full-stack music streaming platform.
-- 🌱 **Learning:** TypeScript, deeper Next.js patterns and GenAI applications.
-- 💬 **Ask me about:** JavaScript, React, Node.js, Express, MongoDB and PostgreSQL.
-- 🏏 **Beyond the keyboard:** Cricket and experimenting with new project ideas.
+<a href="https://github.com/shadazam08/tunesphere">
+  <img src="./assets/project-tunesphere.svg" alt="TuneSphere — music streaming project" width="100%" />
+</a>
 
-## Featured projects
+**Music, playlists and playback in one place.**
 
-### 01 &nbsp; TuneSphere 🎧
-
-**Your music. Your playlists. Your space.**
-
-A full-stack music streaming platform with user authentication, playlist management and dynamic music streaming.
+A full-stack music streaming project with user authentication, playlist management and music streaming.
 
 `React` `Next.js` `Node.js` `Express` `MongoDB`
 
-[![Source code](https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/shadazam08/tunesphere)
-![Demo coming soon](https://img.shields.io/badge/Live_Demo-Coming_Soon-8B5CF6?style=flat-square)
+**[Explore source →](https://github.com/shadazam08/tunesphere)**
 
----
+<br />
 
-### 02 &nbsp; Meesho Clone 🛍️
+### 02 / Meesho Clone
 
-**From product discovery to checkout.**
+<a href="https://github.com/shadazam08/meesho-colone">
+  <img src="./assets/project-meesho.svg" alt="Meesho Clone — e-commerce learning project" width="100%" />
+</a>
 
-A Meesho-inspired e-commerce platform featuring product listings, user authentication, a shopping cart and order management.
+**From product discovery to order management.**
+
+A Meesho-inspired e-commerce project covering product listings, authentication, a shopping cart and order management.
 
 `React` `Node.js` `Express` `MongoDB`
 
-[![Source code](https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/shadazam08/meesho-colone)
-[![Live demo](https://img.shields.io/badge/Live_Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white)](https://meesho-colone.vercel.app/)
+**[Explore source →](https://github.com/shadazam08/meesho-colone)** &nbsp;·&nbsp; **[View demo ↗](https://meesho-colone.vercel.app/)**
 
----
+<br />
 
-### 03 &nbsp; Netflix Clone 🍿
+### 03 / Netflix Clone
 
-**A familiar interface, built as a learning project.**
+<a href="https://github.com/shadazam08/netflix-clone">
+  <img src="./assets/project-netflix.svg" alt="Netflix Clone — movie and TV discovery learning project" width="100%" />
+</a>
 
-A Netflix-inspired web application with user authentication, search and filtering for movies and TV shows.
+**A familiar interface, built to learn.**
+
+A Netflix-inspired learning project with user authentication, search and filtering for movies and TV shows.
 
 `React` `Node.js` `Express`
 
-[![Source code](https://img.shields.io/badge/Source_Code-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/shadazam08/netflix-clone)
-[![Live demo](https://img.shields.io/badge/Live_Demo-14B8A6?style=flat-square&logo=vercel&logoColor=white)](https://netflix-clone-nine-tawny.vercel.app/)
+**[Explore source →](https://github.com/shadazam08/netflix-clone)** &nbsp;·&nbsp; **[View demo ↗](https://netflix-clone-nine-tawny.vercel.app/)**
 
-<p align="right">
-  <a href="https://github.com/shadazam08?tab=repositories">Explore all repositories →</a>
-</p>
+<br />
 
-## Tech stack
+[Browse all repositories →](https://github.com/shadazam08?tab=repositories)
 
-**Frontend**
+## Tools I work with
 
-![HTML5](https://img.shields.io/badge/HTML5-182234?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-182234?style=for-the-badge&logo=css&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-182234?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-182234?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-182234?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-182234?style=for-the-badge&logo=bootstrap&logoColor=A78BFA)
-
-**Backend & databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-182234?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-182234?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-182234?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-182234?style=for-the-badge&logo=postgresql&logoColor=79B8FF)
-
-**Exploring & learning**
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-182234?style=for-the-badge&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-182234?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![GraphQL](https://img.shields.io/badge/GraphQL-182234?style=for-the-badge&logo=graphql&logoColor=E10098)
-
-## Currently exploring
-
-| Focus | What I'm working toward |
+| Area | Technologies |
 | :--- | :--- |
-| ⚡ Next.js & TypeScript | Building applications with clearer structure and stronger types. |
-| ✨ Generative AI | Exploring useful AI features for web applications. |
-| 🧩 GraphQL & microservices | Learning how APIs and services fit together as applications grow. |
-| 🎨 UI/UX | Making interfaces clearer, more consistent and easier to use. |
+| **Frontend** | JavaScript · React · Next.js · HTML · CSS · Bootstrap |
+| **Backend** | Node.js · Express |
+| **Databases** | MongoDB · PostgreSQL |
 
-## GitHub activity
+## Learning, one build at a time
 
-<p align="center">
-  <a href="https://github.com/shadazam08">
-    <img src="https://streak-stats.demolab.com?user=shadazam08&theme=tokyonight&hide_border=true" alt="Shad Azam's GitHub contribution streak" width="495" />
-  </a>
-</p>
+- **Next.js & TypeScript:** stronger types and clearer application structure.
+- **Generative AI:** exploring useful AI features for web applications.
+- **GraphQL & UI/UX:** learning new API approaches and improving interface clarity.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=8b5cf6&style=flat-square" alt="GitHub profile view counter" />
-</p>
+Away from the keyboard, you'll usually find me following cricket or thinking about the next project.
 
 ## Let's connect
 
-Have an idea, a collaboration in mind or a project to discuss? **I'd love to hear from you.**
+Have a role, project or collaboration in mind? **Let's talk.**
 
-📬 **[azamshad08@gmail.com](mailto:azamshad08@gmail.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/shad-azam-32180153)**
-
-<details>
-  <summary>Find me elsewhere</summary>
-
-- [Instagram](https://www.instagram.com/mshadazam/)
-- [Facebook](https://fb.com/shad.azam.94)
-
-</details>
+**[azamshad08@gmail.com](mailto:azamshad08@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/shad-azam-32180153)**
 
 <br />
 
 <p align="center">
-  <img src="./assets/profile-footer.svg" alt="Build with curiosity. Keep learning. — Shad Azam" width="100%" />
+  <img src="./assets/profile-footer.svg" alt="Shad Azam — Build with curiosity. Keep learning." width="100%" />
 </p>

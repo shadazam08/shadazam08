@@ -1,68 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" fill="none" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" fill="none">
   <title>Shad Azam — Full Stack Developer</title>
-  <desc>A navy, cyan and violet profile banner with Shad Azam's name and an illustrated code editor. Based in India. React, Next.js, Node.js and GenAI.</desc>
+  <desc>A charcoal and mint personal identity banner. Shad Azam, Full Stack Developer based in India. From interface to database.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1324"/><stop offset=".6" stop-color="#11182D"/><stop offset="1" stop-color="#1D1639"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#2DD4BF"/><stop offset=".52" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
-    <linearGradient id="name" x1="62" y1="144" x2="590" y2="236" gradientUnits="userSpaceOnUse"><stop stop-color="#F8FAFC"/><stop offset=".6" stop-color="#E0F2FE"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#6546B6" stop-opacity=".25"/><stop offset="1" stop-color="#6546B6" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity=".055"/></pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#10171c"/><stop offset="1" stop-color="#192327"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#d5f5b0"/><stop offset="1" stop-color="#d5f5b0" stop-opacity="0"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b2c3b9" fill-opacity=".12"/></pattern>
   </defs>
-  <rect width="1280" height="460" rx="22" fill="url(#bg)"/>
-  <rect width="1280" height="460" rx="22" fill="url(#grid)"/>
-  <ellipse cx="1050" cy="230" rx="300" ry="250" fill="url(#glow)"/>
-  <path d="M22 1H1258" stroke="url(#accent)" stroke-width="2"/>
-  <circle cx="1210" cy="60" r="150" stroke="#8B5CF6" stroke-opacity=".12"/>
-  <circle cx="1210" cy="60" r="188" stroke="#8B5CF6" stroke-opacity=".07"/>
-
+  <rect x=".5" y=".5" width="1199" height="389" rx="22" fill="url(#bg)" stroke="#344139"/>
+  <rect x="755" y="30" width="408" height="330" fill="url(#dots)"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <rect x="60" y="38" width="56" height="37" rx="9" fill="#152438" stroke="#284157"/>
-    <text x="88" y="63" text-anchor="middle" fill="#5EEAD4" font-size="18" font-weight="700">SA.</text>
-    <text x="132" y="62" fill="#94A3B8" font-size="12" font-weight="700" letter-spacing="2">DEVELOPER / BUILDER</text>
-    <circle cx="1096" cy="56" r="4" fill="#2DD4BF"/>
-    <text x="1110" y="61" fill="#CBD5E1" font-size="12" letter-spacing="1.8">INDIA</text>
-
-    <text x="62" y="144" fill="#94A3B8" font-size="21">Hey, I'm</text>
-    <text x="58" y="224" fill="url(#name)" font-size="76" font-weight="700" letter-spacing="-3">Shad Azam<tspan fill="#2DD4BF">.</tspan></text>
-    <text x="62" y="272" fill="#C4B5FD" font-size="28" font-weight="600">Full Stack Developer</text>
-    <text x="62" y="310" fill="#94A3B8" font-size="17">Turning ideas into thoughtful web experiences.</text>
-
-    <rect x="62" y="339" width="79" height="29" rx="14.5" fill="#142D37" stroke="#24505A"/>
-    <text x="101.5" y="358" text-anchor="middle" fill="#5EEAD4" font-size="12" font-weight="600">React</text>
-    <rect x="151" y="339" width="91" height="29" rx="14.5" fill="#1B263D" stroke="#334155"/>
-    <text x="196.5" y="358" text-anchor="middle" fill="#E2E8F0" font-size="12" font-weight="600">Next.js</text>
-    <rect x="252" y="339" width="91" height="29" rx="14.5" fill="#18302E" stroke="#2C4B41"/>
-    <text x="297.5" y="358" text-anchor="middle" fill="#86EFAC" font-size="12" font-weight="600">Node.js</text>
-    <rect x="353" y="339" width="84" height="29" rx="14.5" fill="#282140" stroke="#483967"/>
-    <text x="395" y="358" text-anchor="middle" fill="#C4B5FD" font-size="12" font-weight="600">GenAI</text>
+    <rect x="44" y="34" width="44" height="34" rx="9" fill="#d5f5b0"/>
+    <text x="66" y="57" text-anchor="middle" fill="#10171c" font-size="17" font-weight="700" letter-spacing="-1">sa.</text>
+    <text x="102" y="56" fill="#c2cabe" font-size="11" font-weight="700" letter-spacing="2.4">THE WORK OF SHAD AZAM</text>
+    <circle cx="1041" cy="51" r="3" fill="#d5f5b0"/>
+    <text x="1054" y="56" fill="#c2cabe" font-size="12" letter-spacing="1.5">INDIA</text>
+    <text x="40" y="177" fill="#f2f2e9" font-size="100" font-weight="700" letter-spacing="-6">Shad Azam<tspan fill="#d5f5b0">.</tspan></text>
+    <text x="45" y="231" fill="#d5f5b0" font-size="31" font-weight="400" letter-spacing="-.6">Full Stack Developer</text>
+    <text x="46" y="272" fill="#bdc9c2" font-size="18">Web experiences, from interface to database.</text>
+    <path d="M45 321H1155" stroke="#36443d"/>
+    <text x="46" y="354" fill="#e0e6dc" font-size="12" letter-spacing="1">REACT <tspan fill="#5c7566"> / </tspan> NEXT.JS <tspan fill="#5c7566"> / </tspan> NODE.JS <tspan fill="#5c7566"> / </tspan> EXPRESS</text>
+    <text x="1154" y="354" text-anchor="end" fill="#96a99d" font-size="11" letter-spacing="1.4">SHADAZAM08</text>
   </g>
-
-  <g transform="translate(732 112)">
-    <rect x="10" y="12" width="466" height="261" rx="16" fill="#050B18" fill-opacity=".45"/>
-    <rect width="466" height="261" rx="16" fill="#0D1628" stroke="#334155"/>
-    <path d="M1 45H465" stroke="#253349"/>
-    <circle cx="24" cy="23" r="5" fill="#FB7185"/>
-    <circle cx="42" cy="23" r="5" fill="#FBBF24"/>
-    <circle cx="60" cy="23" r="5" fill="#34D399"/>
-    <text x="233" y="28" text-anchor="middle" fill="#718096" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1">developer.js</text>
-    <g font-family="Consolas, 'Liberation Mono', monospace" font-size="14">
-      <g fill="#475569" text-anchor="end"><text x="29" y="81">1</text><text x="29" y="108">2</text><text x="29" y="135">3</text><text x="29" y="162">4</text><text x="29" y="189">5</text><text x="29" y="216">6</text></g>
-      <text x="48" y="81"><tspan fill="#C4B5FD">const </tspan><tspan fill="#7DD3FC">developer </tspan><tspan fill="#CBD5E1">= {</tspan></text>
-      <text x="65" y="108"><tspan fill="#CBD5E1">name: </tspan><tspan fill="#5EEAD4">&quot;Shad Azam&quot;</tspan><tspan fill="#CBD5E1">,</tspan></text>
-      <text x="65" y="135"><tspan fill="#CBD5E1">focus: </tspan><tspan fill="#5EEAD4">&quot;Full Stack + GenAI&quot;</tspan><tspan fill="#CBD5E1">,</tspan></text>
-      <text x="65" y="162"><tspan fill="#CBD5E1">stack: [</tspan><tspan fill="#5EEAD4">&quot;React&quot;</tspan><tspan fill="#CBD5E1">, </tspan><tspan fill="#5EEAD4">&quot;Node.js&quot;</tspan><tspan fill="#CBD5E1">],</tspan></text>
-      <text x="65" y="189"><tspan fill="#CBD5E1">mindset: </tspan><tspan fill="#5EEAD4">&quot;Keep building.&quot;</tspan></text>
-      <text x="48" y="216" fill="#CBD5E1">};</text>
-      <rect x="67" y="203" width="8" height="16" rx="1" fill="#2DD4BF" fill-opacity=".75"/>
+  <g transform="translate(798 96)">
+    <circle cx="158" cy="94" r="92" stroke="#d5f5b0" stroke-opacity=".1"/>
+    <circle cx="158" cy="94" r="60" stroke="#d5f5b0" stroke-opacity=".1"/>
+    <path d="M49 65H131Q149 65 149 83V110Q149 128 167 128H257" stroke="#d5f5b0" stroke-opacity=".55" stroke-width="1.5" stroke-dasharray="4 5"/>
+    <path d="M149 65V36H237" stroke="#7a9c86" stroke-width="1.5"/>
+    <circle cx="149" cy="65" r="5" fill="#d5f5b0"/>
+    <rect x="0" y="33" width="104" height="67" rx="12" fill="#1c2926" stroke="#52694c"/>
+    <path d="M16 50H88M16 58H57" stroke="#9cb891" stroke-width="3" stroke-linecap="round"/>
+    <path d="M16 70H38V84H16zM44 70H88V84H44z" fill="#d5f5b0" fill-opacity=".18"/>
+    <rect x="214" y="9" width="91" height="55" rx="12" fill="#d5f5b0"/>
+    <path d="m242 27-8 9 8 9m33-18 8 9-8 9m-15-20-5 22" stroke="#213822" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="215" y="100" width="105" height="68" rx="12" fill="#1c2926" stroke="#52694c"/>
+    <ellipse cx="268" cy="119" rx="17" ry="6" stroke="#d5f5b0" stroke-width="1.6"/>
+    <path d="M251 119V139C251 147 285 147 285 139V119M251 129C251 137 285 137 285 129" stroke="#d5f5b0" stroke-width="1.6"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.5" text-anchor="middle" fill="#9eafa2">
+      <text x="52" y="120">INTERFACE</text><text x="259" y="0">API</text><text x="268" y="189">DATA</text>
     </g>
-    <rect x="278" y="237" width="168" height="39" rx="10" fill="#192F38" stroke="#2B575F"/>
-    <path d="M292 257l4 4 8-9" stroke="#5EEAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="314" y="261" fill="#99F6E4" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600">BUILD. LEARN. REPEAT.</text>
-  </g>
-
-  <path d="M62 404H1218" stroke="#29344B"/>
-  <g font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">
-    <text x="62" y="432" fill="#64748B">FRONTEND + BACKEND + CURIOSITY</text>
-    <text x="1218" y="432" text-anchor="end" fill="#94A3B8">GITHUB.COM/SHADAZAM08</text>
   </g>
 </svg>
