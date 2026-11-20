@@ -1,4 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=8b5cf6&style=flat-square" alt="GitHub Profile View Counter" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shadazam08&label=Profile%20views&color=8b5cf6&style=flat-square" alt="GitHub profile view counter" />
+</p>
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
@@ -6,7 +8,7 @@
   </picture>
 </p>
 
-I’m **Shad**, a full-stack developer in India. I build React interfaces and the Node.js services behind them. Two things I enjoy working on are how a listener saves a playlist and how a shopper’s cart becomes an order.
+I’m **Shad**, a full-stack developer based in India. I work with React, Next.js and Node.js. My engineering work has included connecting web apps to backend services and caching API calls to improve initial load times. [Portfolio ↗](https://shad-azam.vercel.app/)
 
 <p align="center">
   <a href="mailto:azamshad08@gmail.com"><img src="./assets/contact-email.svg" alt="Email Shad" width="145" /></a>
@@ -32,9 +34,9 @@ I’m **Shad**, a full-stack developer in India. I build React interfaces and th
   <img src="./assets/project-meesho.svg" alt="Meesho Clone — e-commerce project" width="100%" />
 </a>
 
-**Meesho Clone** brings the shopping flow into one app. Shoppers can browse the catalog, sign in, add products to a cart and manage their orders.
+**Meesho Clone** is a React storefront I built to practice the shopping flow. Visitors can browse the catalog, open a product, add it to their cart and try the checkout interface.
 
-`React` `Node.js` `Express` `MongoDB`
+`React` `JavaScript` `HTML` `CSS`
 
 [Try the shopping demo ↗](https://meesho-colone.vercel.app/) &nbsp;·&nbsp; [Explore the source →](https://github.com/shadazam08/meesho-colone)
 
@@ -80,5 +82,8 @@ For a full-stack role or a project you’d like to discuss, you can reach me her
 <br />
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="" width="100%" />
+  <img src="./assets/profile-footer.svg" alt="" width="100%" />
 </p>
+<!--<p align="center">
+  <img src="./assets/footer.svg" alt="" width="100%" />
+</p>-->
